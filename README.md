@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zakaria Fichtali</h1>
-<h3 align="center">Im name is Zakaria Fichtali. a 23-year-old full-stack developer and designer from Morocco. I enjoy working with others and learning from people with different backgrounds. Because I understand both design and coding, I can help teams work smoothly together.</h3>
+<p align="center">Im name is Zakaria Fichtali. a 23-year-old full-stack developer and designer from Morocco. I enjoy working with others and learning from people with different backgrounds. Because I understand both design and coding, I can help teams work smoothly together.</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariafichtali&label=ZakariaFichtali&color=ff0000&style=flat-square" alt="zakariafichtali" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariafichtali" alt="zakariafichtali" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/zakariafichtali" target="blank"><img src="https://img.shields.io/twitter/follow/zakariafichtali?logo=twitter&style=for-the-badge" alt="zakariafichtali" /></a> </p>
 
 - 🔭 I’m currently working on [portfolio](https://github.com/ZakariaFichtali/ZaaxProtfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/zakariafichtali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariafichtali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fichtali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fichtali" height="30" width="40" /></a>
 <a href="https://instagram.com/zaa.x09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaa.x09" height="30" width="40" /></a>
 </p>
