@@ -14,7 +14,7 @@
 ###
 
 <div class="block">
-<img style="" class="img" align="left" height="169" src="https://img.mailinblue.com/6722225/images/content_library/original/65f9a009318ccbef5df3e53d.png"  />
+<img style="" class="img" align="left" height="169" src="https://img.mailinblue.com/6722225/images/content_library/original/65f9adb363c5dc3e84685935.gif"  />
 </block>
 ###
 
