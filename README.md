@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakaria Fichtali</h1>
-<p align="center">Im name is Zakaria Fichtali. a 23-year-old full-stack developer and designer from Morocco. I enjoy working with others and learning from people with different backgrounds. Because I understand both design and coding, I can help teams work smoothly together.</p>
+<h3 align="center">Im name is Zakaria Fichtali. a 23-year-old full-stack developer and designer from Morocco. I enjoy working with others and learning from people with different backgrounds. Because I understand both design and coding, I can help teams work smoothly together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariafichtali&label=ZakariaFichtali&color=ff0000&style=flat-square" alt="zakariafichtali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariafichtali" alt="zakariafichtali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zakariafichtali" target="blank"><img src="https://img.shields.io/twitter/follow/zakariafichtali?logo=twitter&style=for-the-badge" alt="zakariafichtali" /></a> </p>
 
@@ -21,3 +19,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ZakariaFichtali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ZakariaFichtali" /></a><a href="https://ko-fi.com/ZakariaFichtali"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ZakariaFichtali" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariafichtali&" alt="zakariafichtali" /></p>
