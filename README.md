@@ -1,3 +1,54 @@
+
+<head>
+<style>
+
+.block {
+  position: relative;
+  margin: 300px auto 0;
+  width: 210px;
+  height: 250px;
+  background: linear-gradient(0deg, #000, #272727);
+}
+.img{
+ height: 100%;
+
+}
+
+.block:before, .block:after {
+  content: '';
+  position: absolute;
+  left: -2px;
+  top: -2px;
+  background: linear-gradient(45deg, #fb0094, #0000ff, #00ff00,#ffff00, #ff0000, #fb0094, 
+    #0000ff, #00ff00,#ffff00, #ff0000);
+  background-size: 400%;
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  z-index: -1;
+  animation: steam 20s linear infinite;
+}
+
+@keyframes steam {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+.block:after {
+  filter: blur(50px);
+}
+
+
+</style>
+</head>
+
+
 <p align="center">lm Zakaria Fichtali.  a 23-year-old full-stack developer and designer from Morocco. I enjoy working with others and learning from people with different backgrounds. Because I understand both design and coding, I can help teams work smoothly together.</p>
 
 ###
@@ -12,8 +63,9 @@
 
 ###
 
-<img align="left" height="169" src="https://img.mailinblue.com/6722225/images/content_library/original/65f9a009318ccbef5df3e53d.png"  />
-
+<div class="block">
+<img style="" class="img" align="left" height="169" src="https://img.mailinblue.com/6722225/images/content_library/original/65f9a009318ccbef5df3e53d.png"  />
+</block>
 ###
 
 <div align="left">
