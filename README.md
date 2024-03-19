@@ -1,6 +1,6 @@
 
 
-  <img style="" class="img" align="left" height="120" src="https://img.mailinblue.com/6722225/images/content_library/original/65f99ffee4e99239d0d697b6.png"  /><p align="center">lm Zakaria Fichtali.  a 23-year-old full-stack developer and designer from Morocco. I enjoy working with others and learning from people with different backgrounds. Because I understand both design and coding, I can help teams work smoothly together.</p>
+  <img style="" class="img" align="left" height="100" src="https://img.mailinblue.com/6722225/images/content_library/original/65f99ffee4e99239d0d697b6.png"  /><p align="center">lm Zakaria Fichtali.  a 23-year-old full-stack developer and designer from Morocco. I enjoy working with others and learning from people with different backgrounds. Because I understand both design and coding, I can help teams work smoothly together.</p>
 
 
 
